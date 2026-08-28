@@ -1,0 +1,6 @@
+{
+  "name": "ScanPro",
+  "description": "Modern document scanner app with auto edge-detection, multi-page scanning, AI OCR text extraction, PDF export, and folder management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
